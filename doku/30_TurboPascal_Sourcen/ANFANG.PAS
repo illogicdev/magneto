@@ -274,7 +274,7 @@ EINGABE1:
 Hier werden folgende Werte eingelesen oder berechnet:
    text_pr    : string;       Ein_par : Textbezeichnung
    lm         : single;       Ein_par : Mittlere L„nge
-   a          : single;       Ein_par : Querschnitt des Eisens
+   a          : si ngle;       Ein_par : Querschnitt des Eisens
    dichte     : single;       Ein_par : Dichte des Materials
    n1         : single;       Ein_par : Prim„rwindungszahl
    n2         : single;       Ein_par : Sekund„rwindungszahl

@@ -285,7 +285,7 @@ Aufnehmen und Speichern der Meáwerte der Kommutierungskurve.
 var
    add          : single;
    spg2         : single;
-   spg1         : single;
+   spg1         : single;0
    spg_zw       : extended;
    kom          : text;
    i            : integer;
