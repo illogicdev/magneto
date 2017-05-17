@@ -20,7 +20,7 @@
 		<Item Name="subVIs" Type="Folder" URL="../subVIs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="MagnetoGUI.vi" Type="VI" URL="../MagnetoGUI.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="Agilent 33XXX Series.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Agilent 33XXX Series.lvlib"/>
@@ -75,7 +75,6 @@
 			</Item>
 			<Item Name="MessbereichEinstellen_mitFrequenz.vi" Type="VI" URL="../subVIs/MessbereichEinstellen_mitFrequenz.vi"/>
 			<Item Name="Messdatenaufzeichnen.vi" Type="VI" URL="../subVIs/Messdatenaufzeichnen.vi"/>
-			<Item Name="Messungaufnehmen.vi" Type="VI" URL="../subVIs/Messungaufnehmen.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
