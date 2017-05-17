@@ -73,8 +73,6 @@
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 				<Item Name="Write PNG File.vi" Type="VI" URL="/&lt;vilib&gt;/picture/png.llb/Write PNG File.vi"/>
 			</Item>
-			<Item Name="MessbereichEinstellen_mitFrequenz.vi" Type="VI" URL="../subVIs/MessbereichEinstellen_mitFrequenz.vi"/>
-			<Item Name="Messdatenaufzeichnen.vi" Type="VI" URL="../subVIs/Messdatenaufzeichnen.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
