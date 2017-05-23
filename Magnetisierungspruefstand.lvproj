@@ -21,6 +21,7 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="MagnetoGUI.vi" Type="VI" URL="../MagnetoGUI.vi"/>
+		<Item Name="MagnetoGUI_Vorschlag.vi" Type="VI" URL="../MagnetoGUI_Vorschlag.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="Agilent 33XXX Series.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Agilent 33XXX Series.lvlib"/>
@@ -73,6 +74,8 @@
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 				<Item Name="Write PNG File.vi" Type="VI" URL="/&lt;vilib&gt;/picture/png.llb/Write PNG File.vi"/>
 			</Item>
+			<Item Name="Data.ctl" Type="VI" URL="/C/Users/Till-NB/Documents/LabVIEW Data/Untitled Project 3/controls/Data.ctl"/>
+			<Item Name="State.ctl" Type="VI" URL="/C/Users/Till-NB/Documents/LabVIEW Data/Untitled Project 3/controls/State.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
