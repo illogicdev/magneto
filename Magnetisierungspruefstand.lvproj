@@ -74,8 +74,6 @@
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 				<Item Name="Write PNG File.vi" Type="VI" URL="/&lt;vilib&gt;/picture/png.llb/Write PNG File.vi"/>
 			</Item>
-			<Item Name="Data.ctl" Type="VI" URL="../../../Users/Till-NB/Documents/LabVIEW Data/Untitled Project 3/controls/Data.ctl"/>
-			<Item Name="State.ctl" Type="VI" URL="../../../Users/Till-NB/Documents/LabVIEW Data/Untitled Project 3/controls/State.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
