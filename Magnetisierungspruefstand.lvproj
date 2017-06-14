@@ -71,6 +71,48 @@
 				<Item Name="Write PNG File.vi" Type="VI" URL="/&lt;vilib&gt;/picture/png.llb/Write PNG File.vi"/>
 			</Item>
 		</Item>
-		<Item Name="Build Specifications" Type="Build"/>
+		<Item Name="Build Specifications" Type="Build">
+			<Item Name="Magneto" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{CFC56FC0-B322-4C37-957A-E917284DE2A3}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{C4E61BE5-B441-4013-85F3-0AD500DA4103}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{C35359A4-E13A-4FCA-9F02-6643D553E593}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">Magneto</Property>
+				<Property Name="Bld_defaultLanguage" Type="Str">German</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/Magneto</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{BFB38DAE-83D4-4BAA-988B-08BAB9060D1D}</Property>
+				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">Magneto.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Magneto/Magneto.exe</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Hilfsdatei-Verzeichnis</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/Magneto/data</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{16C0E0AB-2C99-4281-95CB-EB91868888E4}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/MagnetoGUI_Vorschlag.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="TgtF_companyName" Type="Str">Hochschule Esslingen</Property>
+				<Property Name="TgtF_fastFileFormat" Type="Bool">true</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">Magneto</Property>
+				<Property Name="TgtF_internalName" Type="Str">Magneto</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2017 Hochschule Esslingen</Property>
+				<Property Name="TgtF_productName" Type="Str">Magneto</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{D26C7226-ECF4-41CE-9F4A-AD96015B99A3}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">Magneto.exe</Property>
+			</Item>
+		</Item>
 	</Item>
 </Project>
