@@ -21,7 +21,6 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="MagnetoGUI.vi" Type="VI" URL="../MagnetoGUI.vi"/>
-		<Item Name="MagnetoGUI_Vorschlag.vi" Type="VI" URL="../MagnetoGUI_Vorschlag.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="Agilent 33XXX Series.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Agilent 33XXX Series.lvlib"/>
@@ -99,7 +98,7 @@
 				<Property Name="Source[0].itemID" Type="Str">{16C0E0AB-2C99-4281-95CB-EB91868888E4}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/My Computer/MagnetoGUI_Vorschlag.vi</Property>
+				<Property Name="Source[1].itemID" Type="Ref"></Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
