@@ -86,7 +86,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{BFB38DAE-83D4-4BAA-988B-08BAB9060D1D}</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">5</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Magneto.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Laborversuch Magnetische Eigenschaften/Magneto.exe</Property>
@@ -95,7 +95,7 @@
 				<Property Name="Destination[1].destName" Type="Str">Hilfsdatei-Verzeichnis</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/Laborversuch Magnetische Eigenschaften/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{16AB981D-C517-47A8-AAED-F1DB844AEF3E}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{E5807DDB-AEFB-4DB6-94B9-A4831AA34396}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/MagnetoGUI.vi</Property>
